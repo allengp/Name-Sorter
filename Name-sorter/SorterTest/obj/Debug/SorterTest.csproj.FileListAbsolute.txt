@@ -1,0 +1,11 @@
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\bin\Debug\SorterTest.dll
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\bin\Debug\SorterTest.pdb
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\bin\Debug\Name-sorter.exe
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\bin\Debug\Name-sorter.pdb
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\bin\Debug\Name-sorter.exe.config
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\obj\Debug\SorterTest.csprojAssemblyReference.cache
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\obj\Debug\SorterTest.csproj.CoreCompileInputs.cache
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\obj\Debug\SorterTest.csproj.CopyComplete
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\obj\Debug\SorterTest.dll
+C:\Me\Tests\GlobalX\Name-sorter\SorterTest\obj\Debug\SorterTest.pdb

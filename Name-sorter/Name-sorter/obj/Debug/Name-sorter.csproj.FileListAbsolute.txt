@@ -1,0 +1,7 @@
+C:\Me\Tests\GlobalX\Name-sorter\Name-sorter\bin\Debug\Name-sorter.exe.config
+C:\Me\Tests\GlobalX\Name-sorter\Name-sorter\bin\Debug\Name-sorter.exe
+C:\Me\Tests\GlobalX\Name-sorter\Name-sorter\bin\Debug\Name-sorter.pdb
+C:\Me\Tests\GlobalX\Name-sorter\Name-sorter\obj\Debug\Name-sorter.csprojAssemblyReference.cache
+C:\Me\Tests\GlobalX\Name-sorter\Name-sorter\obj\Debug\Name-sorter.csproj.CoreCompileInputs.cache
+C:\Me\Tests\GlobalX\Name-sorter\Name-sorter\obj\Debug\Name-sorter.exe
+C:\Me\Tests\GlobalX\Name-sorter\Name-sorter\obj\Debug\Name-sorter.pdb
